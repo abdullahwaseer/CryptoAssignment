@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C5A8D2F1-DF29-4D28-9D64-2F20E4E03993"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AEAD905B-04D7-4FEF-979C-D3803F48B7D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrencyApp/Network/NetworkEnums.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "CustomError"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "AEAD905B-04D7-4FEF-979C-D3803F48B7D1 - e8717580601139a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of CryptoCurrencyApp.CustomError.init(title: Swift.String, description: Swift.String, code: Swift.Int) -&gt; CryptoCurrencyApp.CustomError"
+                  moduleName = "CryptoCurrencyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahwaseer/Desktop/WORK_SPACE/CryptoCurrencyApp/CryptoCurrencyApp/Network/NetworkEnums.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "AEAD905B-04D7-4FEF-979C-D3803F48B7D1 - 3bb8f11f5dbcc19b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 1 of CryptoCurrencyApp.CustomError.init(title: Swift.String, description: Swift.String, code: Swift.Int) -&gt; CryptoCurrencyApp.CustomError"
+                  moduleName = "CryptoCurrencyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahwaseer/Desktop/WORK_SPACE/CryptoCurrencyApp/CryptoCurrencyApp/Network/NetworkEnums.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "AEAD905B-04D7-4FEF-979C-D3803F48B7D1 - 255c58e791fbbf98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 2 of CryptoCurrencyApp.CustomError.init(title: Swift.String, description: Swift.String, code: Swift.Int) -&gt; CryptoCurrencyApp.CustomError"
+                  moduleName = "CryptoCurrencyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahwaseer/Desktop/WORK_SPACE/CryptoCurrencyApp/CryptoCurrencyApp/Network/NetworkEnums.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "6">
+               </Location>
+               <Location
+                  uuid = "AEAD905B-04D7-4FEF-979C-D3803F48B7D1 - 351d47dbedaacc63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoCurrencyApp.CustomError.init(title: Swift.String, description: Swift.String, code: Swift.Int) -&gt; CryptoCurrencyApp.CustomError"
+                  moduleName = "CryptoCurrencyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdullahwaseer/Desktop/WORK_SPACE/CryptoCurrencyApp/CryptoCurrencyApp/Network/NetworkEnums.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "126">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48D3D108-E7A7-44F1-B016-5CFC26CFD601"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrencyApp/Controllers/CryptoCurrencyViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "refreshControl"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECE4D6F1-1E04-49F3-A877-73BFB7577F2F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrencyApp/Controllers/CryptoCurrencyViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "setItems(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B121DA7-A8CA-4087-AEF2-46FDFA9B3260"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrencyApp/Controllers/CryptoCurrencyViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "tableView(_:willDisplay:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E49B8299-40C5-415E-B1C3-BF4BF4D99856"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrencyApp/Controllers/CryptoCurrencyViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "didUpdateDataSource()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8D9E966-A1AB-4E72-98B7-E3D2B9D56C5B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrencyApp/Controllers/CryptoCurrencyViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "fetchMoreCryptoCurrencies()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D49DB4A-652B-408A-90E3-C62D12969FCE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrencyApp/Controllers/CryptoCurrencyViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "fetchMoreCryptoCurrencies()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B2CEA0C-3F75-4A6B-A676-622CF092F3F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrencyApp/Controllers/CryptoCurrencyViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "fetchCryptoCurrencies()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A77DB9D-2928-446C-A509-036C2012203D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrencyApp/Controllers/CryptoCurrencyViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "fetchMoreCryptoCurrencies()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
